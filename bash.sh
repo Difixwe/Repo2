@@ -3,6 +3,6 @@ COUNTER=0
 while [ $COUNTER -lt 20 ] 
 do 
    echo The counter is $COUNTER 
-   let COUNTER=$COUNTER+5 
+   let COUNTER=$COUNTER+12 
 done
 
